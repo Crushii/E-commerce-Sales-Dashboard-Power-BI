@@ -1,6 +1,11 @@
 This repository contains a Power BI dashboard designed to analyze e-commerce sales performance across multiple dimensions such as time, product category, membership status, customer behavior, and geographic trends.
 
 
+![Screenshot 2025-04-14 110534](https://github.com/user-attachments/assets/c7a14437-539a-467c-b948-179fc032629b)
+
+
+
+![Screenshot 2025-04-14 110544](https://github.com/user-attachments/assets/b5bae399-850b-4cfd-9546-03eafcb6579a)
 
 
 
