@@ -37,6 +37,9 @@ Average Order Value
 
 
 🌎 Page 2 - Country/Product-wise Analysis
+
+      this tab has different filter options for country , product , year wise analysis
+
            
            Time Series (Year, Quarter, Month) – Trend of order totals in 2024.
 
